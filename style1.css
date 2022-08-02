@@ -1,0 +1,14 @@
+body {
+    font: 18px 'Comic Sans MS', sans-serif;
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.25rem;
+}

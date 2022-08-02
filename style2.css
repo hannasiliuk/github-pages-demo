@@ -1,0 +1,15 @@
+body {
+    font: 18px 'Comic Sans MS', sans-serif;
+    background-color: rgb(224, 221, 208);
+    background-image: url("./img/cours.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
